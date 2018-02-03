@@ -9,5 +9,10 @@
   "exclude": [
     "test.ts",
     "**/*.spec.ts"
+  ],
+  "include": [
+    "../node_modules/angular-material-library/src/app/**/*.module.ts",
+    "main.ts",
+    "polyfills.ts"
   ]
 }

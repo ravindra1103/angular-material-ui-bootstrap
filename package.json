@@ -27,6 +27,7 @@
     "angular-material-library": "git@github.com:ravindra1103/angular-material-library.git#integration"
   },
   "devDependencies": {
+    "@angular-devkit/core": "0.0.29",
     "@angular/cli": "1.6.3",
     "@angular/compiler-cli": "^5.0.0",
     "@angular/language-service": "^5.0.0",
